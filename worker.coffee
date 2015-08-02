@@ -2,7 +2,7 @@ postMessage
   type: 'status'
   message: 'Importing JSRSASign library ...'
 
-importScripts 'jsrsasign-4.7.0-all-min.js'
+importScripts 'jsrsasign-4.8.3-all-min.js'
 
 j = KJUR
 
